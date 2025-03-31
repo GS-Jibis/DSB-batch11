@@ -10,3 +10,6 @@ My data science and analytics projects
  
 ## Contact Me
 Rech out to me at gullamas.sra@hotmail.com
+
+# Note
+/ to make inner path  and .... to move back
