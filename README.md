@@ -2,7 +2,6 @@
 My data science and analytics projects
 
 ## My personal projects
-
 1.SQL supermarket analysis
 2.SQL Churn analysis
 3. R programing - Pao Ying Chub
