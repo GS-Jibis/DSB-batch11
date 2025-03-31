@@ -12,4 +12,9 @@ My data science and analytics projects
 Rech out to me at gullamas.sra@hotmail.com
 
 # Note
-/ to make inner path  and .... to move back
+" / " to make inner path  and "backspaace" to move back
+
+# To do list
+1. Make folder SQL, Python, R, Visualization (Tableau,Power BI, Looker Studio)
+2. Keep code Projecr or upload file
+3. Link to wordpress (portfolio)
